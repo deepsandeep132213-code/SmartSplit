@@ -1,0 +1,16 @@
+target/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+.DS_Store
+Thumbs.db
+*.log
